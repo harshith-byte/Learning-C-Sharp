@@ -1,0 +1,15 @@
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\BreakAndContinue\bin\Debug\net7.0\BreakAndContinue.exe
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\BreakAndContinue\bin\Debug\net7.0\BreakAndContinue.deps.json
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\BreakAndContinue\bin\Debug\net7.0\BreakAndContinue.runtimeconfig.json
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\BreakAndContinue\bin\Debug\net7.0\BreakAndContinue.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\BreakAndContinue\bin\Debug\net7.0\BreakAndContinue.pdb
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\BreakAndContinue\obj\Debug\net7.0\BreakAndContinue.csproj.AssemblyReference.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\BreakAndContinue\obj\Debug\net7.0\BreakAndContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\BreakAndContinue\obj\Debug\net7.0\BreakAndContinue.AssemblyInfoInputs.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\BreakAndContinue\obj\Debug\net7.0\BreakAndContinue.AssemblyInfo.cs
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\BreakAndContinue\obj\Debug\net7.0\BreakAndContinue.csproj.CoreCompileInputs.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\BreakAndContinue\obj\Debug\net7.0\BreakAndContinue.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\BreakAndContinue\obj\Debug\net7.0\refint\BreakAndContinue.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\BreakAndContinue\obj\Debug\net7.0\BreakAndContinue.pdb
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\BreakAndContinue\obj\Debug\net7.0\BreakAndContinue.genruntimeconfig.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\BreakAndContinue\obj\Debug\net7.0\ref\BreakAndContinue.dll
