@@ -1,0 +1,15 @@
+C:\Users\harr7\Desktop\Dotnet Linkedin\Variable&Datatype\bin\Debug\net7.0\Variable&Datatype.exe
+C:\Users\harr7\Desktop\Dotnet Linkedin\Variable&Datatype\bin\Debug\net7.0\Variable&Datatype.deps.json
+C:\Users\harr7\Desktop\Dotnet Linkedin\Variable&Datatype\bin\Debug\net7.0\Variable&Datatype.runtimeconfig.json
+C:\Users\harr7\Desktop\Dotnet Linkedin\Variable&Datatype\bin\Debug\net7.0\Variable&Datatype.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\Variable&Datatype\bin\Debug\net7.0\Variable&Datatype.pdb
+C:\Users\harr7\Desktop\Dotnet Linkedin\Variable&Datatype\obj\Debug\net7.0\Variable&Datatype.csproj.AssemblyReference.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\Variable&Datatype\obj\Debug\net7.0\Variable&Datatype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harr7\Desktop\Dotnet Linkedin\Variable&Datatype\obj\Debug\net7.0\Variable&Datatype.AssemblyInfoInputs.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\Variable&Datatype\obj\Debug\net7.0\Variable&Datatype.AssemblyInfo.cs
+C:\Users\harr7\Desktop\Dotnet Linkedin\Variable&Datatype\obj\Debug\net7.0\Variable&Datatype.csproj.CoreCompileInputs.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\Variable&Datatype\obj\Debug\net7.0\Variable&Datatype.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\Variable&Datatype\obj\Debug\net7.0\refint\Variable&Datatype.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\Variable&Datatype\obj\Debug\net7.0\Variable&Datatype.pdb
+C:\Users\harr7\Desktop\Dotnet Linkedin\Variable&Datatype\obj\Debug\net7.0\Variable&Datatype.genruntimeconfig.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\Variable&Datatype\obj\Debug\net7.0\ref\Variable&Datatype.dll

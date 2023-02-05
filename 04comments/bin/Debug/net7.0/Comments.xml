@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>04comments</name>
+    </assembly>
+    <members>
+        <member name="M:comments.comments.Main(System.String[])">
+            XML comments are used to help provide documentation
+            <summary>
+            this is the main sample application function
+            </summary>
+            <param name='args'> an array of string arguments from the command line</param>
+            <returns>
+            no return type
+            </returns>
+        </member>
+    </members>
+</doc>
