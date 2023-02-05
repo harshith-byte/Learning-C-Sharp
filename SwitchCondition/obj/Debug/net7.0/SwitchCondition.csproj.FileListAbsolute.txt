@@ -1,0 +1,15 @@
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\SwitchCondition\obj\Debug\net7.0\SwitchCondition.csproj.AssemblyReference.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\SwitchCondition\obj\Debug\net7.0\SwitchCondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\SwitchCondition\obj\Debug\net7.0\SwitchCondition.AssemblyInfoInputs.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\SwitchCondition\obj\Debug\net7.0\SwitchCondition.AssemblyInfo.cs
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\SwitchCondition\obj\Debug\net7.0\SwitchCondition.csproj.CoreCompileInputs.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\SwitchCondition\bin\Debug\net7.0\SwitchCondition.exe
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\SwitchCondition\bin\Debug\net7.0\SwitchCondition.deps.json
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\SwitchCondition\bin\Debug\net7.0\SwitchCondition.runtimeconfig.json
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\SwitchCondition\bin\Debug\net7.0\SwitchCondition.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\SwitchCondition\bin\Debug\net7.0\SwitchCondition.pdb
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\SwitchCondition\obj\Debug\net7.0\SwitchCondition.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\SwitchCondition\obj\Debug\net7.0\refint\SwitchCondition.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\SwitchCondition\obj\Debug\net7.0\SwitchCondition.pdb
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\SwitchCondition\obj\Debug\net7.0\SwitchCondition.genruntimeconfig.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\SwitchCondition\obj\Debug\net7.0\ref\SwitchCondition.dll
