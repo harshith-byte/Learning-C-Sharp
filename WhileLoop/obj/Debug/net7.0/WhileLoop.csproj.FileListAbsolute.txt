@@ -1,0 +1,15 @@
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\WhileLoop\bin\Debug\net7.0\WhileLoop.exe
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\WhileLoop\bin\Debug\net7.0\WhileLoop.deps.json
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\WhileLoop\bin\Debug\net7.0\WhileLoop.runtimeconfig.json
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\WhileLoop\bin\Debug\net7.0\WhileLoop.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\WhileLoop\bin\Debug\net7.0\WhileLoop.pdb
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\WhileLoop\obj\Debug\net7.0\WhileLoop.csproj.AssemblyReference.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\WhileLoop\obj\Debug\net7.0\WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\WhileLoop\obj\Debug\net7.0\WhileLoop.AssemblyInfoInputs.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\WhileLoop\obj\Debug\net7.0\WhileLoop.AssemblyInfo.cs
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\WhileLoop\obj\Debug\net7.0\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\WhileLoop\obj\Debug\net7.0\WhileLoop.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\WhileLoop\obj\Debug\net7.0\refint\WhileLoop.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\WhileLoop\obj\Debug\net7.0\WhileLoop.pdb
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\WhileLoop\obj\Debug\net7.0\WhileLoop.genruntimeconfig.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-02\WhileLoop\obj\Debug\net7.0\ref\WhileLoop.dll
