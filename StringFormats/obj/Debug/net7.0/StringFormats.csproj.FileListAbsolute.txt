@@ -1,0 +1,15 @@
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringFormats\bin\Debug\net7.0\StringFormats.exe
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringFormats\bin\Debug\net7.0\StringFormats.deps.json
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringFormats\bin\Debug\net7.0\StringFormats.runtimeconfig.json
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringFormats\bin\Debug\net7.0\StringFormats.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringFormats\bin\Debug\net7.0\StringFormats.pdb
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringFormats\obj\Debug\net7.0\StringFormats.csproj.AssemblyReference.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringFormats\obj\Debug\net7.0\StringFormats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringFormats\obj\Debug\net7.0\StringFormats.AssemblyInfoInputs.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringFormats\obj\Debug\net7.0\StringFormats.AssemblyInfo.cs
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringFormats\obj\Debug\net7.0\StringFormats.csproj.CoreCompileInputs.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringFormats\obj\Debug\net7.0\StringFormats.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringFormats\obj\Debug\net7.0\refint\StringFormats.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringFormats\obj\Debug\net7.0\StringFormats.pdb
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringFormats\obj\Debug\net7.0\StringFormats.genruntimeconfig.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringFormats\obj\Debug\net7.0\ref\StringFormats.dll
