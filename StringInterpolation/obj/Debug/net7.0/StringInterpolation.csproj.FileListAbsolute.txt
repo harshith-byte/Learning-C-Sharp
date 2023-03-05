@@ -1,0 +1,15 @@
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringInterpolation\bin\Debug\net7.0\StringInterpolation.exe
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringInterpolation\bin\Debug\net7.0\StringInterpolation.deps.json
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringInterpolation\bin\Debug\net7.0\StringInterpolation.runtimeconfig.json
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringInterpolation\bin\Debug\net7.0\StringInterpolation.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringInterpolation\bin\Debug\net7.0\StringInterpolation.pdb
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringInterpolation\obj\Debug\net7.0\StringInterpolation.csproj.AssemblyReference.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringInterpolation\obj\Debug\net7.0\StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringInterpolation\obj\Debug\net7.0\StringInterpolation.AssemblyInfoInputs.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringInterpolation\obj\Debug\net7.0\StringInterpolation.AssemblyInfo.cs
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringInterpolation\obj\Debug\net7.0\StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringInterpolation\obj\Debug\net7.0\StringInterpolation.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringInterpolation\obj\Debug\net7.0\refint\StringInterpolation.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringInterpolation\obj\Debug\net7.0\StringInterpolation.pdb
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringInterpolation\obj\Debug\net7.0\StringInterpolation.genruntimeconfig.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringInterpolation\obj\Debug\net7.0\ref\StringInterpolation.dll
