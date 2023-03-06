@@ -1,0 +1,15 @@
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringBuilder\obj\Debug\net7.0\StringBuilder.csproj.AssemblyReference.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringBuilder\obj\Debug\net7.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringBuilder\obj\Debug\net7.0\StringBuilder.AssemblyInfoInputs.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringBuilder\obj\Debug\net7.0\StringBuilder.AssemblyInfo.cs
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringBuilder\obj\Debug\net7.0\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringBuilder\bin\Debug\net7.0\StringBuilder.exe
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringBuilder\bin\Debug\net7.0\StringBuilder.deps.json
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringBuilder\bin\Debug\net7.0\StringBuilder.runtimeconfig.json
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringBuilder\bin\Debug\net7.0\StringBuilder.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringBuilder\bin\Debug\net7.0\StringBuilder.pdb
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringBuilder\obj\Debug\net7.0\StringBuilder.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringBuilder\obj\Debug\net7.0\refint\StringBuilder.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringBuilder\obj\Debug\net7.0\StringBuilder.pdb
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringBuilder\obj\Debug\net7.0\StringBuilder.genruntimeconfig.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-03\StringBuilder\obj\Debug\net7.0\ref\StringBuilder.dll
