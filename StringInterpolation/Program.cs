@@ -13,7 +13,10 @@
             ,year,make,model,miles,price);
 
             // using interpolation
-            Console.WriteLine($"the car is {year} {make} {model}, with {miles} and costs {price}");
+            Console.WriteLine($"the car is {year} {make} {model}, with {miles} and costs {price:C2}");
+
+            // using in-line expression
+            Console.WriteLine($"the car is {year} {make} {model}, with {{{miles * 1.6:F2}}} Km and costs {price:C2}");
         }
     }
 }
