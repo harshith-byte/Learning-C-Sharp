@@ -1,0 +1,15 @@
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-04\functionsBasics\bin\Debug\net7.0\functionsBasics.exe
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-04\functionsBasics\bin\Debug\net7.0\functionsBasics.deps.json
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-04\functionsBasics\bin\Debug\net7.0\functionsBasics.runtimeconfig.json
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-04\functionsBasics\bin\Debug\net7.0\functionsBasics.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-04\functionsBasics\bin\Debug\net7.0\functionsBasics.pdb
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-04\functionsBasics\obj\Debug\net7.0\functionsBasics.csproj.AssemblyReference.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-04\functionsBasics\obj\Debug\net7.0\functionsBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-04\functionsBasics\obj\Debug\net7.0\functionsBasics.AssemblyInfoInputs.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-04\functionsBasics\obj\Debug\net7.0\functionsBasics.AssemblyInfo.cs
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-04\functionsBasics\obj\Debug\net7.0\functionsBasics.csproj.CoreCompileInputs.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-04\functionsBasics\obj\Debug\net7.0\functionsBasics.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-04\functionsBasics\obj\Debug\net7.0\refint\functionsBasics.dll
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-04\functionsBasics\obj\Debug\net7.0\functionsBasics.pdb
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-04\functionsBasics\obj\Debug\net7.0\functionsBasics.genruntimeconfig.cache
+C:\Users\harr7\Desktop\Dotnet Linkedin\lesson-04\functionsBasics\obj\Debug\net7.0\ref\functionsBasics.dll
